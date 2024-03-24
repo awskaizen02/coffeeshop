@@ -1,3 +1,7 @@
 wc to test1
 
+
 stash line
+
+git stash pop  
+
